@@ -1,0 +1,26 @@
+{
+  "name": "bot-new-bot",
+  "version": "0.0.0",
+  "description": "Build a bot using microsoft bot framework and node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scriptonist/bot-new-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "slack"
+  ],
+  "author": "Aravind KP",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/scriptonist/bot-new-bot/issues"
+  },
+  "dependencies": {
+    "botbuilder": "~3.3.0",
+    "restify": "~4.1.1"
+  }
+}
